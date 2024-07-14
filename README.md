@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Traffic signs detection and classification in real time
 
 ### A new version using SSD will be released this summer for anyone need higher accuracy detection method. Stay tuned for new update!
@@ -82,3 +83,6 @@ optional arguments:
 [MIT License](LICENSE)
 © 2018 Hoàng Lê Hải Thanh (Thanh Hoang Le Hai) aka GhostBB
 
+=======
+# Traffic_Signs_Detections
+>>>>>>> 89b891604cf2257cc2d9b87c4c2036d0c2c7f805
